@@ -25,4 +25,10 @@ Kjekt å treffe deg Silje
 
 ## 2. Gjett talet
 
-1. Lag eit program
+1. Lag eit program som lager eit tilfeldig tal mellom `1` og `100` og skriv talet
+
+Eksempel:
+
+```
+Talet er 24
+```
