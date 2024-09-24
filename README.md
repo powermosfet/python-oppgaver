@@ -94,3 +94,53 @@ Prøv igjen: 24
 Det er riktig!
 Du klarte det på 3 forsøk
 ```
+
+## 3. Todo-liste
+
+1. Lag eit program som har ein meny. Dei ulike menyvalga skriv kva du valgte og går så tilbake til menyen igjen.
+
+Eksempel:
+
+```
+Nures Todo-liste
+
+A. Legg til ei oppgåve
+B. Kryss av ei oppgåve
+C. Slett ei oppgåve
+
+? B
+
+Du valgte B: Kryss av ei oppgåve
+
+A. Legg til ei oppgåve
+B. Kryss av ei oppgåve
+C. Slett ei oppgåve
+
+?
+```
+
+2. Lag menyvalg 1. Spør om kva oppgava er, og legg det inn i ei liste
+
+Eksempel:
+
+```
+Nures Todo-liste
+
+A. Legg til ei oppgåve
+B. Kryss av ei oppgåve
+C. Slett ei oppgåve
+
+? A
+
+Kva er oppgava?
+Gå ut med søppelet
+
+Oppgåver:
+1. Gå ut med søppelet
+
+A. Legg til ei oppgåve
+B. Kryss av ei oppgåve
+C. Slett ei oppgåve
+
+?
+```
